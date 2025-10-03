@@ -69,8 +69,8 @@ def main():
     print(f"🎯 Career Goal: {user_profile['career_goal']}")
     print(f"🚀 Immediate Skills: {', '.join(path['immediate_skills'])}")
     print(f"🔮 Quantum Boost: {', '.join(path['quantum_boosted'])}")
-    print(f📈 Success Probability: {path['probability_success']}")
-    print(f⚡ Time Compression: {path['time_compression']}")
+    print(f"📈 Success Probability: {path['probability_success']}")
+    print(f"⚡ Time Compression: {path['time_compression']}")
     
     print(f"\n🌐 Multi-Timeline Preparation:")
     for timeline, skills in path['entangled_outcomes'].items():
