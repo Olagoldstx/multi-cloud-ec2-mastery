@@ -1,0 +1,46 @@
+# Security
+*.pem
+*.key
+*.p12
+*.cer
+*.crt
+*.csr
+*.der
+*.pfx
+*.p7b
+*.secret
+*.priv
+
+# AWS
+.aws/credentials
+.aws/config
+
+# Azure
+.azure/accessTokens.json
+.azure/azureProfile.json
+
+# GCP
+gcp-key.json
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+logs/
+
+# Local configuration
+.env
+.local
