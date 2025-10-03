@@ -105,11 +105,11 @@
 ## 💥 **GET IN THE ARENA - NO SPECTATORS**
 
 \`\`\`bash
-# CLONE AND IMMEDIATE DEPLOYMENT
+# # CLONE AND IMMEDIATE DEPLOYMENT
 git clone https://github.com/Olagoldstx/multi-cloud-ec2-mastery.git
 cd multi-cloud-ec2-mastery
 
-# LAUNCH YOUR DOMINANCE - RIGHT NOW
+# # LAUNCH YOUR DOMINANCE - RIGHT NOW
 ./LAUNCH_MULTIVERSE.sh
 
 # FIRST DEPLOYMENT - 60 SECONDS FROM NOW
