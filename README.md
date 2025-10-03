@@ -112,7 +112,7 @@ cd multi-cloud-ec2-mastery
 # # LAUNCH YOUR DOMINANCE - RIGHT NOW
 ./LAUNCH_MULTIVERSE.sh
 
-# FIRST DEPLOYMENT - 60 SECONDS FROM NOW
+# # FIRST DEPLOYMENT - 60 SECONDS FROM NOW
 ./tools/multiverse/deploy-reality.sh --target prime --app career-rocket --force
 \`\`\`
 
