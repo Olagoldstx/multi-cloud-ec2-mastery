@@ -12,7 +12,7 @@
 #### 🕰️ Era 1: The Mainframe Age (1960s-1980s)
 **Analogy**: The Town Library
 - Centralized computing power
-- Limited access, high cost  
+- Limited access, high cost
 - Time-sharing systems
 
 #### 💻 Era 2: The Client-Server Model (1980s-2000s)
@@ -30,17 +30,16 @@
 ## 🔍 Deep Dive: Why Cloud Won?
 
 ### Economic Drivers
-\`\`\`mermaid
-graph LR
-    A[Capital Expenditure] --> B[Operational Expenditure]
-    C[Fixed Capacity] --> D[Elastic Capacity]
-    E[Long Procurement] --> F[Instant Access]
-\`\`\`
+
+#### Traditional vs Cloud Economics
+- **Capital Expenditure** → **Operational Expenditure**
+- **Fixed Capacity** → **Elastic Capacity**
+- **Long Procurement** → **Instant Access**
 
 ### Technical Enablers
 1. **Virtualization** - The magic behind the curtain
 2. **Broadband Internet** - The delivery mechanism
-3. **Automation** - The efficiency engine  
+3. **Automation** - The efficiency engine
 4. **Distributed Systems** - The resilience foundation
 
 ## 💡 Key Insight
