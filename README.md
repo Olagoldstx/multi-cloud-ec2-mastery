@@ -1,4 +1,20 @@
 # 🌩️ TRINITY MULTI-CLOUD EC2 MASTERY
+
+<!-- BADGES:START -->
+
+<div align="left">
+[![](https://img.shields.io/github/license/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/stars/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a&logo=github)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/issues/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+[![](https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-ec2-mastery/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-ec2-mastery)
+</div>
+
+<!-- BADGES:END -->
+
 ### **YOUR TICKET TO CLOUD SUPREMACY** 🚀
 
 <div align="center">
